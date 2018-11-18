@@ -22,5 +22,20 @@ body {
 	padding: 0 45px 20px;
 }
 
+h1 {
+  margin: 0 0 5px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+h2 {
+  color: #6f7f7a;
+  font-size: 2em;
+}
+
 /* Write all remaining styles here */
+
+
+
+
 
