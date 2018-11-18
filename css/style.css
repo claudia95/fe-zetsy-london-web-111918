@@ -18,3 +18,10 @@ body {
 }
 
 /* Write all remaining styles here */
+
+/* Fonts */
+
+@font-face {
+  font-family: "Baskerville";
+  src: url()
+}
